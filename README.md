@@ -1,4 +1,4 @@
-![logo](https://github.com/EngrArfin/Engr-S-Arfin/blob/main/1.jpg)
+![logo](https://github.com/EngrArfin/Engr-S-Arfin/blob/3bfebf7d6623a91d19b22f4527334ee7f41e1ef5/BannerEngrArfin.png)
 # Engr-S-Arfin
 I'm a student of http://B.sc in Computer Science and Engineering.
 <h1 align="center">Hi 👋, I'm S Arfin Mia</h1>
